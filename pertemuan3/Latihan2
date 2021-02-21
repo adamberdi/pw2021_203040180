@@ -1,0 +1,27 @@
+<?php 
+/*
+Adam Berdi R. Adipati
+203040180
+https://github.com/adamberdi/pw2021_203040180
+Pertemuan 3 - 22 Februari 2021
+Mempelajari mengenai pengkondisian - IF ELSE IF
+*/
+?>
+
+<?php
+// pengkondisian /  percabangan
+// if else
+// if else if else
+// ternary
+// switch
+
+$x = 20;
+if( $x < 20 ) {
+	echo "benar";
+} else if ( $x == 20 ) {
+	echo "bingo!";
+} else {
+	echo "salah";
+}
+
+?>
